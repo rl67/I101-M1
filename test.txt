@@ -1,4 +1,4 @@
-this is a test
+this is all RIGHT (in newfeature)
 this is my first test
 
 Hi I forgot a line
