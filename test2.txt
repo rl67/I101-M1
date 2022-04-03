@@ -1,3 +1,2 @@
-hey this is another file
-
-Here is a new line in this file as well
+Sletta 3 linjer.
+Dette er testing.
