@@ -1,4 +1,4 @@
-this is ALL KINDA OK (in main)
+this is all RIGHT (in newfeature)
 this is my first test
 
 Hi I forgot a line
